@@ -1,2 +1,4 @@
 # Nameless-Example
-Example Nameless 2 module
+An example Nameless v2 module to use as a base for your own projects.
+
+Requires Nameless version 2 ([repo](https://github.com/NamelessMC/Nameless))
