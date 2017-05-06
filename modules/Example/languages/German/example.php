@@ -10,5 +10,5 @@
  */
  
 $language = array(
-	'example' => 'Example'
+	'example' => 'Beispiel'
 );
