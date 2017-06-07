@@ -7,8 +7,10 @@
  *  License: MIT
  *
  *  Dutch Language for example module
+ *  Nederlandse taal voor voorbeeld modulce
+ *  Vertaald door: Melerpe
  */
  
 $language = array(
-	'example' => 'Example'
+	'example' => 'Voorbeeld'
 );
